@@ -1,4 +1,6 @@
-telegram_token: ""
-openai_api_key: ""
-allowed_telegram_usernames: []  # if empty, the bot is available to anyone
+telegram_token: "5754723910:AAGgOgkq9SoQS25jyluNt57oUlyQL402PGs"
+openai_api_key: "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"
+allowed_telegram_usernames: [@Klown111]  # if empty, the bot is available to anyone
 new_dialog_timeout: 600  # new dialog starts after timeout (in seconds)
+mv config/config.example.yml config/config.yml
+mv config/config.example.env config/config.env
